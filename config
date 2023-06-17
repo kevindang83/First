@@ -1,0 +1,9 @@
+{
+    "settings": {
+        "timeoutStepMin": 1500,
+	"timeoutStepMax": 5500,
+        "timeoutTasksMin" : 2500,
+        "timeoutTasksMax" : 5500,
+        "createLog" : true,
+        "dcomName" : "Mobifone"
+    },
